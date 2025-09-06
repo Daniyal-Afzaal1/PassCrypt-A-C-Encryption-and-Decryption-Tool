@@ -16,7 +16,7 @@ Whether you’re learning security basics or just want a quick password locker, 
 
 ---
 
-## 🛠 How It Works
+##  How It Works
 1. Run the program.  
 2. Choose **Encrypt** or **Decrypt** from the menu.  
 
